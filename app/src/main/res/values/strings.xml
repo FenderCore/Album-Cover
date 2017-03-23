@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Album Cover</string>
+    <string name="title_activity_async">AsyncActivity</string>
+</resources>
